@@ -17,9 +17,9 @@ export default siteConfig({
   description: 'Emma Shaw CV',
 
   // social usernames (optional)
+  linkedin: 'emmashawc',
   twitter: 'emma_shawc',
   github: 'emmashawc',
-  linkedin: 'emmashawx',
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
 
