@@ -383,11 +383,11 @@
   display: none;
 }
 
-.notion-block-1d5135377202482baa394b77811dac05 .notion-page-icon {
+.notion-block-7cf37aee83324c60bbc37730d446b736 .notion-page-icon {
   display: none;
 }
 
-.index-page .notion-block-1d5135377202482baa394b77811dac05 {
+.index-page .notion-block-7cf37aee83324c60bbc37730d446b736 {
   position: fixed;
   margin: -325px 315px;
   font-size: 14px;
@@ -395,7 +395,7 @@
 }
 
 @media only screen and (max-width: 900px) {
-.index-page .notion-block-1d5135377202482baa394b77811dac05 {
+.index-page .notion-block-7cf37aee83324c60bbc37730d446b736 {
     position: fixed;
     margin: -325px 305px;
     z-index: 9999;
@@ -406,7 +406,7 @@
 }
 
 @media only screen and (max-width: 640px) {
-.index-page .notion-block-1d5135377202482baa394b77811dac05 {
+.index-page .notion-block-7cf37aee83324c60bbc37730d446b736 {
     display: none;
   }
 }
