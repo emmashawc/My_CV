@@ -72,6 +72,12 @@
   font-size: 14px;
 }
 
+
+/* ========== HIDE CALLOUT ICON ========== */
+.notion-callout-block-icon {
+  display: none !important;
+}
+
 .notion-collection-card {
   border-radius: 16px;
   box-shadow: none;
