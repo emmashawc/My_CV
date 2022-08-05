@@ -382,3 +382,31 @@
 .notion-block-260baa77f1e1428b97fb14ac99c7c385 {
   display: none;
 }
+
+.notion-block-1d5135377202482baa394b77811dac05 .notion-page-icon {
+  display: none;
+}
+
+.index-page .notion-block-1d5135377202482baa394b77811dac05 {
+  position: fixed;
+  margin: -325px 315px;
+  font-size: 14px;
+  z-index: 9999;
+}
+
+@media only screen and (max-width: 900px) {
+.index-page .notion-block-1d5135377202482baa394b77811dac05 {
+    position: fixed;
+    margin: -325px 305px;
+    z-index: 9999;
+    background: none;
+    backdrop-filter: none;
+    padding: 0 12px;
+  }
+}
+
+@media only screen and (max-width: 640px) {
+.index-page .notion-block-1d5135377202482baa394b77811dac05 {
+    display: none;
+  }
+}
