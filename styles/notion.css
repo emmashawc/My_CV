@@ -393,7 +393,7 @@
  /* top menu */
  /* item 1 */
 
-.notion-block-7cf37aee83324c60bbc37730d446b736 .notion-page-icon {
+notion-row.notion-block-7cf37aee83324c60bbc37730d446b736 .notion-page-icon {
   display: none;
 }
 
@@ -406,7 +406,7 @@
 }
 
 @media only screen and (max-width: 900px) {
-  .notion-block-7cf37aee83324c60bbc37730d446b736 {
+  notion-row.notion-block-7cf37aee83324c60bbc37730d446b736 {
     position: fixed;
     margin: -205px -12px;
     z-index: 1;
@@ -417,7 +417,7 @@
 }
 
 @media only screen and (max-width: 640px) {
-  .notion-block-7cf37aee83324c60bbc37730d446b736 {
+  notion-row.notion-block-7cf37aee83324c60bbc37730d446b736 {
     display: none;
   }
 
@@ -425,7 +425,7 @@
 
  /* item 2 */
 
-.notion-block-23b92595b72a4c9fb6bd70eccc718542 .notion-page-icon {
+notion-row.notion-block-23b92595b72a4c9fb6bd70eccc718542 .notion-page-icon {
   display: none;
 }
 
@@ -439,7 +439,7 @@
 }
 
 @media only screen and (max-width: 900px) {
-  .notion-block-23b92595b72a4c9fb6bd70eccc718542 {
+  notion-row.notion-block-23b92595b72a4c9fb6bd70eccc718542 {
     position: fixed;
     margin: -205px -12px;
     z-index: 1;
@@ -450,7 +450,7 @@
 }
 
 @media only screen and (max-width: 640px) {
-  .notion-block-23b92595b72a4c9fb6bd70eccc718542 {
+  notion-row.notion-block-23b92595b72a4c9fb6bd70eccc718542 {
     display: none;
   }
 
@@ -458,7 +458,7 @@
 
  /* item 3 */
 
-.notion-block-8a52720363a4145afe752a736aad396 .notion-page-icon {
+notion-row.notion-block-8a52720363a4145afe752a736aad396 .notion-page-icon {
   display: none;
 }
 
@@ -471,7 +471,7 @@
 }
 
 @media only screen and (max-width: 900px) {
-  .notion-block-8a52720363a4145afe752a736aad396 {
+  notion-row.notion-block-8a52720363a4145afe752a736aad396 {
     position: fixed;
     margin: -205px -12px;
     z-index: 1;
@@ -482,7 +482,7 @@
 }
 
 @media only screen and (max-width: 640px) {
-  .notion-block-8a52720363a4145afe752a736aad396 {
+  notion-row.notion-block-8a52720363a4145afe752a736aad396 {
     display: none;
   }
 
