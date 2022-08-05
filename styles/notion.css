@@ -383,22 +383,27 @@
   display: none;
 }
 
+
+ /* top menu */
+ /* item 1 */
+
 .notion-block-7cf37aee83324c60bbc37730d446b736 .notion-page-icon {
   display: none;
 }
 
+
 .index-page .notion-block-7cf37aee83324c60bbc37730d446b736 {
   position: fixed;
-  margin: -325px 315px;
+  margin: -245px 285px;
   font-size: 14px;
   z-index: 9999;
 }
 
 @media only screen and (max-width: 900px) {
-.index-page .notion-block-7cf37aee83324c60bbc37730d446b736 {
+  .notion-block-7cf37aee83324c60bbc37730d446b736 {
     position: fixed;
-    margin: -325px 305px;
-    z-index: 9999;
+    margin: -205px -12px;
+    z-index: 1;
     background: none;
     backdrop-filter: none;
     padding: 0 12px;
@@ -406,7 +411,75 @@
 }
 
 @media only screen and (max-width: 640px) {
-.index-page .notion-block-7cf37aee83324c60bbc37730d446b736 {
+  .notion-block-7cf37aee83324c60bbc37730d446b736 {
     display: none;
   }
+
 }
+
+ /* item 2 */
+
+.notion-block-23b92595b72a4c9fb6bd70eccc718542 .notion-page-icon {
+  display: none;
+}
+
+
+.index-page .notion-block-23b92595b72a4c9fb6bd70eccc718542 {
+  position: fixed;
+  margin: -245px 400px;
+  font-size: 14px;
+  
+   z-index: 9999;
+}
+
+@media only screen and (max-width: 900px) {
+  .notion-block-23b92595b72a4c9fb6bd70eccc718542 {
+    position: fixed;
+    margin: -205px -12px;
+    z-index: 1;
+    background: none;
+    backdrop-filter: none;
+    padding: 0 12px;
+  }
+}
+
+@media only screen and (max-width: 640px) {
+  .notion-block-23b92595b72a4c9fb6bd70eccc718542 {
+    display: none;
+  }
+
+}
+
+ /* item 3 */
+
+.notion-block-8a52720363a4145afe752a736aad396 .notion-page-icon {
+  display: none;
+}
+
+
+.index-page .notion-block-8a52720363a4145afe752a736aad396 {
+  position: fixed;
+  margin: -245px 500px;
+  font-size: 14px;
+  z-index: 9999;
+}
+
+@media only screen and (max-width: 900px) {
+  .notion-block-8a52720363a4145afe752a736aad396 {
+    position: fixed;
+    margin: -205px -12px;
+    z-index: 1;
+    background: none;
+    backdrop-filter: none;
+    padding: 0 12px;
+  }
+}
+
+@media only screen and (max-width: 640px) {
+  .notion-block-8a52720363a4145afe752a736aad396 {
+    display: none;
+  }
+
+}
+
+/* end of top menu */
